@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.funds {
+    padding: 0px 25px;
+}
+
+.top-fund {
+    padding: 15px 0px 0px 0px;
+}
+h1 {
+    font-size: 2px;
+}
+
+
+table thead tr th {
+    color: #718096;
+    font-family: Manrope;
+    font-style: ExtraBold;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 150%;
+    text-align: Left;
+    Vertical-align: Center;
+    letter-spacing: 0.2px;
+}
+
+table thead tr .th-icon {
+    display: flex;
+    width: 30px;
+}
+
+table thead tr .th-icon th {
+    padding: 0px 3px;
+}
+
+
+.iconspl {
+    width: 20px;
+}
+
+.eko{
+    display: flex;
+    flex-direction: column;
+    font-size: small;
+    padding: 4px 0px 5px 0px;
+}
+
+.eko .eko-sub {
+    color: #718096;
+}
+
+.success {
+    color: #22C55E;
+    background: #F6FDF9;
+}
+
+.sucess-text {
+    color: #22C55E;
+}
+
+#failed, .reversed, .refund {
+    padding: 3px 7px;
+    border-radius: 5px;
+}
+
+.detail-dots {
+    padding: 8px 5px;
+    color: #718096;
+    background: #E2E8F0;
+}
+
+ #failed {
+    color: #FF784B;
+    background: #FFF7F5;
+ }
+
+.failed-text {
+    color: #FF784B;
+}
+
+.refund {
+    color: #FACC15;
+    background: #FFFCF0;
+}
+
+.refund-text {
+    color: #FACC15;
+}
+
+.reversed {
+    color: #936DFF;
+    background: #F7F5FF;
+}
+
+.reversed-text {
+    color: #936DFF;
+}
+
+tr td {
+    font-family: Manrope;
+    font-style: Medium;
+    font-size: 12px;
+    line-height: 24px;
+    line-height: 150%;
+    text-align: Left;
+    vertical-align: Center;
+    letter-spacing: 0.2px;
+}
+
+/* CURRENT CSS */
+.table {
+    margin-top: 100px;
+}
+
+table tbody tr td #success {
+    color: #22C55E;
+    background: #F6FDF9;
+}
+
+#sucess-text {
+    color: #22C55E;
+}
+
+#failed, #reversed, #refund {
+    padding: 3px 7px;
+    border-radius: 5px;
+}
+
+#failed-text {
+    color: #FF784B;
+}
+
+#refund {
+    color: #FACC15;
+    background: #FFFCF0;
+}
+
+#refund-text {
+    color: #FACC15;
+}
+
+#reversed {
+    color: #936DFF;
+    background: #F7F5FF;
+}
+
+#reversed-text {
+    color: #936DFF;
+}
